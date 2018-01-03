@@ -1,2 +1,2 @@
 # kottans_frontend
-Давно хотел узнать больше про гит, но не находил материала. Было достаточно интересно.
+For a long time I wanted to learn more about the git, but I did not find the material. It was quite interesting.
